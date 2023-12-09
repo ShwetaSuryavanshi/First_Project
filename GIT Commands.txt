@@ -1,0 +1,500 @@
+   74  git status
+   75  git add
+   76  history
+   77  git add .
+   78  git status
+   79  git commit -m "Contact added with Hi Hello"
+   80  git status
+   81  git push
+   82  git branch
+   83  git branch feature1
+   84  history
+   85  git checkout feature1
+   86  git status
+   87  git status
+   88  git add .
+   89  git push
+   90  git push --set-upstream origin feature1
+   91  git push
+   92  git init
+   93  git status
+   94  git add
+   95  git add Main.java
+   96  git add -A
+   97  git status
+   98  git branch
+   99  git checkout branch
+  100  git checkout -b Java_branch 1
+  101  git checkout -b Java_branch1
+  102  git status
+  103  git commit -m "Java 1st code"
+  104  git push Main
+  105  git push --set-upstream Main Java_branch1
+  106  git push
+  107  echo "Hello world"
+  108  git clone https://github.com/ShwetaSuryavanshi/First_Project.git
+  109  cd First_Project
+  110  cat Commands.txt
+  111  git clone https://github.com/ShwetaSuryavanshi/First_Project.git
+  112  cd First_Project
+  113  cat Commands.txt
+  114  git config --global user.name
+  115  git config --global user.email
+  116  git init
+  117  ls -lrt
+  118  git add Project1.java
+  119  git status
+  120  git commit
+  121  git status
+  122  git log
+  123  git log -p -1
+  124  git diff
+  125  git status -s
+  126  git branch selenium_projects
+  127  git checkout selenium_projects
+  128  ls
+  129  ls -lrt
+  130  git add -A
+  131  git commit
+  132  git branch
+  133  git push -u origin selenium_projects
+  134  git push -u origin master
+  135  git remote add origin https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  136  git push -u origin master
+  137  git status
+  138  ls
+  139  git add -A
+  140  git commit -m
+  141  git commit -m "Committed"
+  142  git push -u
+  143  git push --set-upstream origin selenium_projects
+  144  git checkout master
+  145  git status
+  146  git add -A
+  147  ls
+  148  git commit -m "Committed all 3 projects"
+  149  git remote add origin https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  150  git push
+  151   git push --set-upstream origin selenium_projects
+  152  git checkout selenium_projects
+  153  git pull origin master
+  154  git log
+  155  git pull origin selenium_projects
+  156  git log
+  157  git init
+  158  git status
+  159  git add -A
+  160  git status
+  161  git commit -m "Jemeter Test Plan Projects"
+  162  git origin -u https://github.com/ShwetaSuryavanshi/Jmeter_TestPlans_projects.git
+  163  git history
+  164  git History
+  165  git --help
+  166  git origin https://github.com/ShwetaSuryavanshi/Jmeter_TestPlans_projects.git
+  167  origin https://github.com/ShwetaSuryavanshi/Jmeter_TestPlans_projects.git
+  168  git remote add origin https://github.com/ShwetaSuryavanshi/Jmeter_TestPlans_projects.git
+  169  git push -u origin
+  170  git push --set-upstream origin master
+  171  git init
+  172  git status
+  173  git add -A
+  174  git status
+  175  git commit -m "Added all the Java Files"
+  176  git status
+  177  git help
+  178  git help -a
+  179  git help -g
+  180  git add origin -u
+  181  git add remote origin -u https://github.com/ShwetaSuryavanshi/Java_Codes.git
+  182  git remote add origin https://github.com/ShwetaSuryavanshi/Java_Codes.git
+  183  git push origin -u
+  184  git push --set-upstream origin master
+  185  git init
+  186  git status
+  187  git add XpathAxesMethod_Ancestor_AncestorOrSelf.java
+  188  git commit XpathAxesMethod_Ancestor_AncestorOrSelf.java -m "XpathPath Axes methods"
+  189  git status
+  190  git push -u origin https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  191  git push -u https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  192  git push origin master
+  193  git status
+  194  git status
+  195  git status
+  196  git init
+  197  git status
+  198  git status
+  199  git status
+  200  git add XpathAxesMethod_Ancestor_AncestorOrSelf.java
+  201  git commit XpathAxesMethod_Ancestor_AncestorOrSelf.java -m "Xpath Axes Methods"
+  202  git status
+  203  git branch
+  204  git branch master
+  205  git checkout master
+  206  git status
+  207  git push origin master
+  208  git push origin -u https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  209  git push -u https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  210  git merge
+  211  git checkout selenium_projects
+  212  git merge master
+  213  git init
+  214  git status
+  215  git branc
+  216  git branch
+  217  git checkout master
+  218  git add -A
+  219  git stauts
+  220  git status
+  221  git commit -m "CSS Selectors"
+  222  git status
+  223  git push
+  224  git push origin https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  225  git push -u https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  226  git push --help
+  227  git push --help
+  228  git push remote origin -u https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  229  git push origin remote -u https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  230  git push -u origin https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  231  git remote add origin https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  232  git add origin  https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  233  git remote set-url origin  https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  234  git remote add master  https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  235  git push origin master  https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  236  git push orgin -u  https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  237  git remote add origin https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  238  git status
+  239  git push -u origin https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  240  git push -u origin master
+  241  git checkout selenium_projects
+  242  git status
+  243  git push -u https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  244  git merge master
+  245  git log
+  246  git init
+  247  git status
+  248  git log
+  249  git add -A
+  250  git status
+  251  git commit -m "CSS Selectors"
+  252  git status
+  253  git push -u https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  254  git merge master
+  255  git checkout master
+  256  git pull origin master
+  257  git merge selenium_projects
+  258  git push origin master
+  259  git init
+  260  git status
+  261  git add -A
+  262  git commit -m "Selenium Projects"
+  263  git status
+  264  git push -u https://github.com/ShwetaSuryavanshi/Selenium_Projects.git
+  265  git init
+  266  git status
+  267  git add Listeners.xml
+  268  git add Master.xml
+  269  git add RegressionSuite.xml
+  270  git add pom.xml
+  271  git checkout -b TestNG_xml_Files
+  272  git status
+  273  git add Listeners.xml
+  274  git add RegressionSuite.xml
+  275  git add Master.xml
+  276  git add pom.xml
+  277  git add testng.xml
+  278  git add testng_Group.xml
+  279  git status
+  280  git commit -m "TestNG_xml_files_23_03_2023"
+  281  git status
+  282  git push -u "https://github.com/ShwetaSuryavanshi/TestNG_Projects/tree/TestNG_xml_Files"
+  283   git push --set-upstream https://github.com/ShwetaSuryavanshi/TestNG_Projects/tree/TestNG_xml_Files TestNG_xml_Files
+  284  git push -u origin  git push --set-upstream https://github.com/ShwetaSuryavanshi/TestNG_Projects/tree/TestNG_xml_Files TestNG_xml_Files
+  285  git puah
+  286  git push
+  287  git push --set-upstream origin TestNG_xml_Files
+  288  git push -u https://github.com/ShwetaSuryavanshi/TestNG_Projects/branches
+  289  git push --set-upstream https://github.com/ShwetaSuryavanshi/TestNG_Projects/branches TestNG_xml_Files
+  290  git remote add origin https://github.com/ShwetaSuryavanshi/TestNG_Projects.git
+  291  git push
+  292  git push --set-upstream origin TestNG_xml_Files
+  293  git remote add origin https://github.com/ShwetaSuryavanshi/TestNG_Projects.git
+  294  git push
+  295  git init
+  296  git status
+  297  git add -A
+  298  git commit -m "TestNG_23_03_2023"
+  299  git status
+  300  git push -u https://github.com/ShwetaSuryavanshi/TestNG_Projects
+  301  git push --set-upstream https://github.com/ShwetaSuryavanshi/TestNG_Projects master
+  302  git log
+  303  git status
+  304  cat commands.txt
+  305  #!/bin/bash
+  306  echo Hello $1 $2
+  307  #!/bin/bash
+  308  echo Hello $1 $2
+  309  #!/bin/bash
+  310  echo Hello $1 $2
+  311  #!/bin/bash
+  312  for i in $@; do  echo " $i"; done
+  313  git init
+  314  git clone https://github.com/ShwetaSuryavanshi/First_Project.git
+  315  git init
+  316  git status
+  317  git add -A
+  318  git commit -m "testng projects"
+  319  git status
+  320  git clone https://github.com/ShwetaSuryavanshi/TestNG_Projects.git
+  321  ls
+  322  git status
+  323  git add -A
+  324  git commit -m "testng projects"
+  325  git status
+  326  git push origin main
+  327  help
+  328  history
+  329  git checkout
+  330  git checkout -b main
+  331  git push origin main
+  332  git clone https://github.com/ShwetaSuryavanshi/TestNG_Projects.git
+  333  cat ~/.gitconfig
+  334  git status
+  335  git commit -a
+  336  git push origin main
+  337  git push --help
+  338  git pull origin master
+  339  git status
+  340  git commit -a
+  341  git status
+  342  git status
+  343  git add -A
+  344  git status
+  345  git commit
+  346  git init
+  347  pwd
+  348  git status
+  349  git clone https://github.com/ShwetaSuryavanshi/TestNG_Projects.git
+  350  git status
+  351  ls
+  352  cd TestNG_Projects/
+  353  git status
+  354  history
+  355  git checkout -b TestNG_xml_Files
+  356  cd ..
+  357  git clone https://github.com/ShwetaSuryavanshi/TestNG_Projects.git checkout -b master
+  358  git clone https://github.com/ShwetaSuryavanshi/TestNG_Projects.git testng -b master
+  359  git status
+  360  ls
+  361  cd testng/
+  362  git status
+  363  git log
+  364  git status
+  365  git commit -m "add"
+  366  git add --a
+  367  git commit
+  368  git commit -m "add"
+  369  git status
+  370  git log
+  371  git status
+  372  git status
+  373  git init
+  374  git status
+  375  ll
+  376  cd New folder
+  377  ls
+  378  cd New folder
+  379  cd Newfloder
+  380  ls
+  381  pwd
+  382  cd Newfolder/
+  383  git init
+  384  git status
+  385  git add .a
+  386  git add --a
+  387  git statuus
+  388  git status
+  389  git status
+  390  git log
+  391  git commit -m "commit"
+  392  git log
+  393  git diff
+  394  git diff --staged
+  395  git log
+  396  git status
+  397  git diff
+  398  git status
+  399  git status
+  400  git status
+  401  git add -a
+  402  git add --a
+  403  git status
+  404  git commit -m "commited renames"
+  405  git status
+  406  git status
+  407  git add .
+  408  git statusgigi
+  409  ll
+  410  git rm New\ Text\ Document3.txt
+  411  git status
+  412  git r New Text Document3.txt
+  413  git rm New Text Document3.txt
+  414  git rm New Text Document3.txt
+  415  git rm New Text Document3.txt
+  416  git rm New Text Document3.txt
+  417  git status
+  418  git add .
+  419  git status
+  420  git rm Document3.txt
+  421  git status
+  422  git commit -m "renamed"
+  423  git status
+  424  git log
+  425  git rm Document3.txt
+  426  git status
+  427  git diff
+  428  git diff -unstaged
+  429  git restore --staged
+  430  git restore Document3.txt --staged
+  431  git status
+  432  git restore Document3.txt
+  433  git status
+  434  git ls -a
+  435  ls -a
+  436  cd .git/
+  437  ll
+  438  cd ..
+  439  git -p
+  440  git log -p
+  441  git log -p 2
+  442  git log -p
+  443  git log -p 2
+  444  git log -p -2
+  445  git log --stat
+  446  git log --pretty=oneline
+  447  git log --since=2.days
+  448  git log --since=0.days
+  449  git log --since=1.days
+  450  git commit --amend
+  451  git log --since=2.days
+  452  git commit --amend
+  453  git log --since=2.days
+  454  git status
+  455  git add .a
+  456  git add .
+  457  git status
+  458  git status
+  459  git add .
+  460  git status
+  461  git commit -m "c"
+  462  git status
+  463  git checkout --Document3.txt
+  464  git checkout -- Document3.txt
+  465  git status
+  466  git checkout -- Document3.txt
+  467  git status
+  468  git status
+  469  git add .
+  470  git status
+  471  git checkout -- Document3.txt
+  472  git status
+  473  git commit -m "c"
+  474  git log
+  475  git log --stat
+  476  git restore Document3.txt
+  477  git restore Document3.txt --staged
+  478  git status
+  479  git checkout -- f
+  480  vi Document3.txt
+  481  git checkout -- f
+  482  ll
+  483  git status
+  484  git add .
+  485  git status
+  486  git checkout -- f
+  487  git checkout -- hhjk.txt
+  488  git status
+  489  git checkout -- hhjk.txt
+  490  git commit -m "c"
+  491  git status
+  492  git checkout -- hhjk.txt
+  493  git status
+  494  git status
+  495  git checkout -- hhjk.txt
+  496  git restore hhjk.txt
+  497  git status
+  498  git restore hhjk.txt
+  499  git remote
+  500  git status
+  501  history
+  502  ssh-keygen -t rsa -b 4096 -C "shwetasuryavanshi99999@gamil.com"
+  503  ssh-keygen -t rsa -b 4096 -C "shwetasuryavanshi99999@gamil.com"
+  504  git remote -v
+  505  git push -u origin master
+  506  eval "$(ssh-agent -s)"
+  507  ssh-add -K /Users/you/.ssh/id_rsa
+  508  ssh-add ~/.ssh/id_rsa
+  509  tail ~/.ssh/id_rsa.pub
+  510  git push -u origin feature1
+  511  git push -u origin master
+  512  git checkout -b feature1
+  513  git push -u origin feature1
+  514  git pull origin master
+  515  git pull origin feature1
+  516  git pull origin feature1 --allow-unrelated-histories
+  517  git push -u origin feature1
+  518  history
+  519  ll
+  520  git status
+  521  git add .
+  522  git commit -m "added content in Document3"
+  523  git status
+  524  git push -u origin feature1
+  525  git diff
+  526  git diff --staged
+  527  git status
+  528  git diff
+  529  git diff --staged
+  530  git add .
+  531  git diff --staged
+  532  git add .
+  533  git commit -m "added content in hhjk.txt"
+  534  git diff
+  535  git diff --staged
+  536  git push -u origin feature1
+  537  git status
+  538  git commit -a -m "changed index.txt"
+  539  git push -u origin feature1
+  540  git restore --staged --index.html
+  541  git restore --staged --hhjk.txt
+  542  git restore --staged -- hhjk.txt
+  543  git status
+  544  git status
+  545  git add .
+  546  git status
+  547  git restore --staged -- hhjk.txt
+  548  git status
+  549  ll
+  550  git checkout -b master
+  551  git master
+  552  git -b master
+  553  git checkout master
+  554  git status
+  555  ll
+  556  git checkout master
+  557  git status
+  558  git restore --staged -- hhjk.txt
+  559  git status
+  560  git unstage
+  561  git restore --staged -- hhjk.txt
+  562  git status
+  563  git restore hhjk.txt
+  564  git status
+  565  git checkout master
+  566  git checkout feature1
+  567  git checkout master
+  568  git checkout -b feature3
+  569  git status
+  570  git commit -a -m "master branch changes discarded"
+  571  git status
+  572  git history
+  573  history
