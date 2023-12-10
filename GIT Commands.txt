@@ -498,3 +498,60 @@
   571  git status
   572  git history
   573  history
+  738  git pull -u git@github.com:ShwetaSuryavanshi/First_Project.git
+  739  git pull origin git@github.com:ShwetaSuryavanshi/First_Project.git
+  740  git pull origin feature3
+  741  ll
+  742  git merge master
+  743  ll
+  744  git checkout master
+  745  ll
+  746  git status
+  747  git restore --A
+  748  git restore --staged
+  749  git restore --staged-command.txt
+  750  git restore commands.txt --staged
+  751  git restore Commands.txt --staged
+  752  ll
+  753  git status
+  754  git restore contact.html --staged
+  755  git restore index.html.txt --staged
+  756  ll
+  757  git status
+  758  git add .
+  759  git status
+  760  git commit -m "commited"
+  761  git status
+  762  ll
+  763  git restore --staged Commands.txt
+  764  git pull origin master
+  765  ll
+  766  git -rf rm
+  767  rm -rf .git
+  768  git status
+  769  git init
+  770  git status
+  771  git origin
+  772  git remote
+  773  git remote -v
+  774  git remote add origin git@github.com:ShwetaSuryavanshi/First_Project.git
+  775  git remote -v
+  776  git pull origin master
+  777  ll
+  778  git checkout feature3
+  779  git checkout -b feature3
+  780  git pull origin feature3
+  781  git pull origin feature3 --allow-unrealted-histories
+  782  git pull origin feature3  --allow-unrelated-histories
+  783  ll
+  784  git checkout master
+  785  ll
+  786  git merger feature3
+  787  git merge feature3
+  788  ll
+  789  ll
+  790  git status
+  791  git push origin master
+  792  git checkout feature3
+  793  history
+
